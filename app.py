@@ -488,7 +488,7 @@ if submitted and question:
 # ---------------- Footer ----------------
 st.markdown("""
 <div class="footer">
-Built by <b>Team Delta</b> | B.Tech Student |
+Built by <b>Team Delta</b> | B.Tech Students |
 <a href="https://github.com/harshadev1428" target="_blank">GitHub</a>
 <a href="https://linkedin.com/in/harsha-d-9aba27372" target="_blank">LinkedIn</a>
 <a href="mailto:hharshadev2006@gmail.com">Email</a>
