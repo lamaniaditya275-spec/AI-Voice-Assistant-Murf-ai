@@ -2,7 +2,7 @@ An AI-powered voice assistant that generates intelligent responses using Groq Ll
 
 This project demonstrates how real-time AI conversations can be combined with text-to-speech technology to build modern voice-first applications.
 
-eatures
+Features
 
 🤖 AI-powered responses using Groq Llama3
 
